@@ -1,4 +1,6 @@
-# formula-cards
+# RUNE: Revision Using Neat Equations
+
+Formerly `formula-cards`.
 
 Printable maths formula cards where every formula is stored once and tested exactly.
 
