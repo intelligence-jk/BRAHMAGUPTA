@@ -1,4 +1,4 @@
-# RUNE: Revision Using Neat Equations
+# BRAHMAGUPTA: named after Brahmagupta, whose Brahmasphutasiddhanta gave rules and formulas in short verses
 
 Formerly `formula-cards`.
 
